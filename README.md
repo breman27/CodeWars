@@ -9,3 +9,4 @@ Currently using
 * Ruby
 * JavaScript
 * Julia
+* SQL
