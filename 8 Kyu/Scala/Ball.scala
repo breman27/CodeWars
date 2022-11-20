@@ -1,0 +1,1 @@
+case class Ball(ballType: String = "regular")
