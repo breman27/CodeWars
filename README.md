@@ -8,3 +8,4 @@ Currently using
 * Haskell
 * Ruby
 * JavaScript
+* Julia
