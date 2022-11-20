@@ -10,3 +10,4 @@ Currently using
 * JavaScript
 * Julia
 * SQL
+* Go
