@@ -1,3 +1,6 @@
+/**
+ * https://www.codewars.com/kata/5314b3c6bb244a48ab00076c
+ */
 object LuckCheck {
   def luckCheck(s: String): Boolean = {
     if (s.filter(_.isDigit).size != s.length) throw new NumberFormatException

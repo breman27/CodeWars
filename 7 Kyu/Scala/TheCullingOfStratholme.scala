@@ -1,3 +1,6 @@
+/**
+ * https://www.codewars.com/kata/634913db7611b9003dff49ad
+ */
 object TheCullingOfStratholme {
   def purify(s: String): String = {
     val indexes = s.zipWithIndex.filter(x => x._1 == 'i' || x._1 == 'I').map(_._2)

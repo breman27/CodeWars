@@ -1,3 +1,6 @@
+/**
+ * https://www.codewars.com/kata/5848565e273af816fb000449
+ */
 object EncryptThis {
   def encryptThis(text: String): String = {
     if (text.isEmpty) ""
